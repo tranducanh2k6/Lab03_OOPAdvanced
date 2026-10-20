@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03_OOPAdvanced", "Lab03_OOPAdvanced\Lab03_OOPAdvanced.csproj", "{A9E808EE-D35F-4A7C-85E9-A4C1D5CBC9F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E808EE-D35F-4A7C-85E9-A4C1D5CBC9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E808EE-D35F-4A7C-85E9-A4C1D5CBC9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E808EE-D35F-4A7C-85E9-A4C1D5CBC9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E808EE-D35F-4A7C-85E9-A4C1D5CBC9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F98732-B0D8-4370-BC34-345E8EA542F8}
+	EndGlobalSection
+EndGlobal
